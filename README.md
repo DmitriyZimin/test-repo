@@ -1,3 +1,5 @@
 # это просто текст внутри файла README.md
 
-please stand by
+Please stand by!
+
+Пожалуйста, подождите!
